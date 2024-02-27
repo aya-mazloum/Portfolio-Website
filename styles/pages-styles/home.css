@@ -1,0 +1,38 @@
+main {
+    height: 85vh;
+    background-image: url("../../images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-text {
+    float: left;
+    width: 50%;
+    padding: 25vh 10vw;
+}
+
+.main-text p {
+    margin: 10px 0;
+    color: #c31489;
+}
+
+.main-text button {
+    margin-top: 5px;
+    background-color: #c31489;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 20px;
+}
+
+.main-img {
+    display: inline-block;
+    width: 50%;
+    padding: 20vh 7vw;
+}
+
+.main-img img {
+    border-radius: 50%;
+    width: 50%;
+}

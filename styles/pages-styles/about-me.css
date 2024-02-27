@@ -1,0 +1,32 @@
+main {
+    padding: 10%;
+}
+
+main h3 {
+    color: #04AA6D;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+main p{
+    display: block;
+}
+
+.personal-info {
+    margin-top: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #fff7fc;
+  }
